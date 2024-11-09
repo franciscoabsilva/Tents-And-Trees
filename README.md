@@ -1,4 +1,4 @@
-## Tents-And-Trees
+## Tents and Trees
 Project for Programming Logic
 
 # Introduction
